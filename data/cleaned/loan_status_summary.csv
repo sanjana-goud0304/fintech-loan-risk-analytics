@@ -1,0 +1,4 @@
+loan_status,count
+Default,6867
+Closed,6637
+Active,6496
