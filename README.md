@@ -124,9 +124,9 @@ Project screenshots include:
 
 # Powerbi Dashboard
 
-![Customer Segmentation](screenshots/powerbi_dashboard/customer_segmentation.png)
-
 ![Executive Overview](screenshots/powerbi_dashboard/executive_overview.png)
+
+![Customer Segmentation](screenshots/powerbi_dashboard/customer_segmentation.png)
 
 ![Loan Risk Analysis](screenshots/powerbi_dashboard/loan_risk_analysis.png)
 
